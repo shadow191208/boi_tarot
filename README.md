@@ -22,10 +22,10 @@ Dự án này được tạo với mục đích:
 
 ## 🧱 Cấu trúc thư mục
 boi_tarot/
-├── index.html # Trang chính
-├── back.png # Hình nền
-├── sparkle.png # Hình ảnh trang trí
-├── README.md # Tài liệu này
+── index.html # Trang chính
+── back.png # Hình nền
+── sparkle.png # Hình ảnh trang trí
+── README.md # Tài liệu này
 
 
 ---
